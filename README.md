@@ -1,13 +1,12 @@
 # 🐰 PROJECT
 
 - Title : 식스티세컨즈 메인 화면 반응형 웹 개발 
-- HTML / CSS / Bootstrap 사용한 반응형
+- Bootstrap 사용한 반응형
 
 <br>
 
 ## 📎 URL (https://ohsuji.github.io/60s/)
 
-- HTML / CSS / Bootstrap 사용한 반응형
 - 일부 리디자인
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/110226420/218110391-33616b5d-46f0-4728-9f1d-ebdd1bd73005.png">
